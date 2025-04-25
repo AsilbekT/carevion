@@ -21,19 +21,19 @@
                 facility with confidence.
               </p>
               <div class="btn-container d-flex align-items-center">
-                <router-link
-                  to="/"
-                  style="white-space: nowrap"
+                <a
+                  href="#contact"
+                  style="white-space: nowrap; color: #fff !important"
                   class="btn btn-main-2 btn-icon btn-round-full d-flex"
                   >Find Your Next Nursing Opportunity
                   <i class="icofont-simple-right ml-2"></i
-                ></router-link>
-                <router-link
-                  to="/"
-                  style="white-space: nowrap"
+                ></a>
+                <a
+                  href="#contact"
+                  style="white-space: nowrap; color: #fff !important"
                   class="btn btn-main-2 btn-icon btn-round-full d-flex ml-2"
                   >Request Staffing <i class="icofont-simple-right ml-2"></i
-                ></router-link>
+                ></a>
               </div>
             </div>
           </div>

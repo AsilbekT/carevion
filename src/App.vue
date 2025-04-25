@@ -26,7 +26,13 @@
     </div>
     <nav class="navbar navbar-expand-lg navigation" id="navbar">
       <div class="container">
-        <a class="navbar-brand" href="index.html">Carevion</a>
+        <a class="navbar-brand" style="display: flex" href="index.html">
+          <img
+            src="@/assets/images/logo.svg"
+            style="width: 180px; aspect-ratio: 4/2; object-fit: cover"
+            alt=""
+          />
+        </a>
 
         <button
           class="navbar-toggler collapsed"
@@ -74,7 +80,13 @@
       <div class="row">
         <div class="col-lg-4 mr-auto col-sm-6">
           <div class="widget mb-5 mb-lg-0">
-            <div class="logo mb-4">Carevion</div>
+            <div class="logo mb-4" style="display: flex">
+              <img
+                src="@/assets/images/logo.svg"
+                style="width: 180px; aspect-ratio: 4/2; object-fit: cover"
+                alt=""
+              />
+            </div>
             <p>
               Carevion Global Inc provides comprehensive healthcare solutions
               with dedication and excellence.
